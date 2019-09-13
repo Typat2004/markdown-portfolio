@@ -1,1 +1,4 @@
-old cars Dogs and food 
+*old cars  
+*Dogs
+*food 
+*curry 
